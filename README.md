@@ -14,7 +14,7 @@ CREATE DATABASE taskman
 - Extract the taskmaster files from the zip folder to the location of your choice 
 
 ### Code database connection
-## 🔓 homeController.js from the controllers folder in the file you extracted
+## Open homeController.js from the controllers folder in the file you extracted
 - Replace your database pool connection string with the following details
 ~~~
 "host": "localhost",
